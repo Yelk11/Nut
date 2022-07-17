@@ -1,0 +1,9 @@
+/home/matt/workspace/Nut/src/build/nut_controller/CMakeFiles/uninstall.dir
+/home/matt/workspace/Nut/src/build/nut_controller/CMakeFiles/nut_controller_uninstall.dir
+/home/matt/workspace/Nut/src/build/nut_controller/CMakeFiles/test.dir
+/home/matt/workspace/Nut/src/build/nut_controller/CMakeFiles/edit_cache.dir
+/home/matt/workspace/Nut/src/build/nut_controller/CMakeFiles/rebuild_cache.dir
+/home/matt/workspace/Nut/src/build/nut_controller/CMakeFiles/list_install_components.dir
+/home/matt/workspace/Nut/src/build/nut_controller/CMakeFiles/install.dir
+/home/matt/workspace/Nut/src/build/nut_controller/CMakeFiles/install/local.dir
+/home/matt/workspace/Nut/src/build/nut_controller/CMakeFiles/install/strip.dir

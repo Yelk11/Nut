@@ -1,0 +1,15 @@
+/home/matt/workspace/Nut/src/install/nut_controller/share/ament_index/resource_index/package_run_dependencies/nut_controller
+/home/matt/workspace/Nut/src/install/nut_controller/share/ament_index/resource_index/parent_prefix_path/nut_controller
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/environment/ament_prefix_path.sh
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/environment/ament_prefix_path.dsv
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/environment/path.sh
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/environment/path.dsv
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/local_setup.bash
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/local_setup.sh
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/local_setup.zsh
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/local_setup.dsv
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/package.dsv
+/home/matt/workspace/Nut/src/install/nut_controller/share/ament_index/resource_index/packages/nut_controller
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/cmake/nut_controllerConfig.cmake
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/cmake/nut_controllerConfig-version.cmake
+/home/matt/workspace/Nut/src/install/nut_controller/share/nut_controller/package.xml

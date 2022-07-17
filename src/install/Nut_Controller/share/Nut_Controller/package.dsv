@@ -1,0 +1,8 @@
+source;share/Nut_Controller/hook/cmake_prefix_path.ps1
+source;share/Nut_Controller/hook/cmake_prefix_path.dsv
+source;share/Nut_Controller/hook/cmake_prefix_path.sh
+source;share/Nut_Controller/local_setup.bash
+source;share/Nut_Controller/local_setup.dsv
+source;share/Nut_Controller/local_setup.ps1
+source;share/Nut_Controller/local_setup.sh
+source;share/Nut_Controller/local_setup.zsh
